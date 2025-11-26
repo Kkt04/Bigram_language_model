@@ -10,4 +10,3 @@ It follows the approach demonstrated by Andrej Karpathy to show how character-le
 A **Bigram Language Model** predicts the **next character** using **only the current character**.  
 There is **no memory**, **no long-term context**, no attention — just a lookup table converted into probabilities.
 
----
