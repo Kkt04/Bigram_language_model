@@ -17,7 +17,11 @@ For example, if the current character is 'h', the model tries to guess which cha
 🎯 Why This Model Is Useful
 
 Even though it's simple, it helps explain:
+
 How text is turned into numbers
+
 How a model can learn small patterns
+
 How language models generate text step by step
+
 This is the easiest starting point for understanding how bigger language models work internally.
